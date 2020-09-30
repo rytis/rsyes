@@ -1,6 +1,6 @@
 [package]
 name = "rsyes"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["rytis"]
 edition = "2018"
 description = "YES implementation in Rust"
